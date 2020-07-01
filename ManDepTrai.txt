@@ -1,1 +1,2 @@
 man dep trai
+man dep trai x2
